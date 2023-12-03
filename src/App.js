@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -20,9 +19,9 @@ function App() {
     //   </header>
     // </div>
 
-    <footer className="page-footer stylish-color-dark pt-3">
+    <footer className="page-footer  stylish-color-dark pt-3 bg-danger">
 
-      <div className="container contentText">
+      <div className="container text-white contentText">
 
         {/* Social Media Bar */}
         <div className="row pt-1  text-md-center justify-content-md-center">
@@ -68,7 +67,7 @@ function App() {
 
         <hr className="py-0 my-0" />
 
-        <div className="footer-copyright text-center pb-2">© 2021 Copyright: Carlos T.</div>
+        <div className="footer-copyright text-center pb-2">© 2023 Copyright: Carlos T.</div>
 
 
       </div>
